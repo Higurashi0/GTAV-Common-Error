@@ -55,7 +55,7 @@
 > - Symptom: Not running game from Launcher.
 > - Solution: Please run Grand Theft Auto V using PlayGTAV.exe.
 
-###ERR_NET_WINSOCK_1
+### ERR_NET_WINSOCK_1
 > - Symptom: WinSock error.
 > - Solution: Please reboot and restart the game.
 
