@@ -1,4 +1,4 @@
-# Grand Theft Auto V:common error and how to fix them.
+# Grand Theft Auto V Common errors and how to fix them.
 
 ### ERR_SYS_THREAD
 > - Symptom: You have more than 1 CPU.
